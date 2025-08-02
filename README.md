@@ -1,67 +1,66 @@
 # 🌐 ConnectSphere – Decentralized Internet for 2.6 Billion People
 
-![ConnectSphere Banner](https://via.placeholder.com/1000x250/0A0F1E/FFFFFF?text=ConnectSphere+-+Decentralized+Global+Connectivity)
-
----
-
-## 📌 Descripción
-**ConnectSphere** es un proyecto **DePIN (Decentralized Physical Infrastructure Network)** en la **Binance Smart Chain (BSC)** que busca brindar **conectividad a más de 2.6 mil millones de personas sin acceso a internet** en África, Asia, Latinoamérica y regiones remotas.  
-Nuestro objetivo es cerrar la brecha digital con **tecnología sostenible, descentralizada y accesible**.
+## 📌 Description
+**ConnectSphere** is a **DePIN (Decentralized Physical Infrastructure Network)** project built on the **Binance Smart Chain (BSC)** aimed at providing **internet connectivity to over 2.6 billion people without access** across Africa, Asia, Latin America, and remote regions.  
+Our mission is to close the digital divide with **sustainable, decentralized, and affordable technology**.
 
 ---
 
 ## 📄 Whitepaper
-- 📘 [Ver en GitHub (Markdown)](./WHITEPAPER.md)  
-- 📄 [Descargar en PDF](./Whitepaper.pdf)  
-- 📝 [Versión en Word](./Whitepaper.docx)
+- 📘 [View on GitHub (Markdown)](./WHITEPAPER.md)  
+- 📄 [Download PDF](./Whitepaper.pdf)  
+- 📝 [Word Version](./Whitepaper.docx)
 
 ---
 
-## 🚀 Características Clave
-- 💰 **Costo accesible**: nodos desde $50 USD  
-- 🌍 **Descentralización real**: impulsado por la comunidad  
-- ☀️ **Energía sostenible**: paneles solares + hardware de bajo consumo  
-- 🔒 **Privacidad garantizada**: cifrado AES-256 + dVPN descentralizada  
-- 📚 **Impacto social**: educación remota, telemedicina e inclusión financiera  
+## 🚀 Key Features
+- 💰 **Affordable cost**: nodes starting at $50 USD  
+- 🌍 **True decentralization**: community-driven model  
+- ☀️ **Sustainable energy**: solar panels + low-power hardware  
+- 🔒 **Guaranteed privacy**: AES-256 encryption + decentralized VPN  
+- 📚 **Social impact**: remote education, telemedicine, and financial inclusion  
 
 ---
 
 ## 📈 Roadmap
 
-| **Fase** | **Periodo**  | **Objetivos Clave** |
-|----------|-------------|---------------------|
-| 1        | 2025-2026   | 100 nodos piloto en 3 regiones |
-| 2        | 2027-2028   | Expansión a 10,000 nodos + alianzas con ONGs |
-| 3        | 2029-2030   | 50,000 nodos y 1M de usuarios conectados |
-| 4        | 2031+       | DAO global y marketplace Web3 integrado |
+| **Phase** | **Period**  | **Key Objectives** |
+|-----------|-------------|---------------------|
+| 1         | 2025-2026   | 100 pilot nodes across 3 regions |
+| 2         | 2027-2028   | Expansion to 10,000 nodes + partnerships with NGOs |
+| 3         | 2029-2030   | 50,000 nodes and 1M connected users |
+| 4         | 2031+       | Global DAO and integrated Web3 marketplace |
 
 ---
 
 ## 🪙 Tokenomics
 
 **Token:** $SPHERE (BEP-20)  
-**Supply total:** 1,000,000,000
+**Total Supply:** 1,000,000,000
 
-**Distribución:**
-- 25% → Incentivos para nodos  
-- 20% → Liquidez inicial  
-- 30% → Fondo de ecosistema  
-- 10% → Comunidad (airdrop)  
-- 10% → Equipo (bloqueado 24 meses)  
-- 5%  → Reserva estratégica  
+**Distribution:**
+- 25% → Node incentives  
+- 20% → Initial liquidity  
+- 30% → Ecosystem fund  
+- 10% → Community airdrop  
+- 10% → Team (locked for 24 months)  
+- 5%  → Strategic reserve  
 
 ---
 
-## 🤝 Únete a la Comunidad
-- 🔗 [Telegram](https://t.me/ConnectSphere)  
-- 🐦 [Twitter/X](https://x.com/ConnectSphere)  
+## 🤝 Join the Community
+- 🔗 [Telegram](https://t.me/connectsphereDPin)  
+- 🐦 [Twitter/X](https://x.com/connectSphereDp)  
 - 💬 [Discord](https://discord.gg/ConnectSphere)  
-- 🌍 [Sitio web oficial](https://connectsphere.io)
+- 🌍 [Official Website](https://connectsphere.io)
 
 ---
 
-## 📬 Contacto
-📧 Email: support@connectsphere.io  
-🌐 Proyecto DePIN en Binance Smart Chain  
+## 📬 Contact
+📧 Email: Connectsphere.depin@gmail.com  
+🌐 A DePIN Project on Binance Smart Chain  
+
+> 🚀 **ConnectSphere**: Connecting the world, one community at a time.
+
 
 > 🚀 **ConnectSphere**: Conectando al mundo, una comunidad a la vez.
