@@ -3,16 +3,7 @@
 ## 📌 Description
 **ConnectSphere** is a **DePIN (Decentralized Physical Infrastructure Network)** project built on the **Binance Smart Chain (BSC)** aimed at providing **internet connectivity to over 2.6 billion people without access** across Africa, Asia, Latin America, and remote regions.  
 Our mission is to close the digital divide with **sustainable, decentralized, and affordable technology**.
-
 ---
-
-## 📄 Whitepaper
-- 📘 [View on GitHub (Markdown)](./WHITEPAPER.md)  
-- 📄 [Download PDF](./Whitepaper.pdf)  
-- 📝 [Word Version](./Whitepaper.docx)
-
----
-
 ## 🚀 Key Features
 - 💰 **Affordable cost**: nodes starting at $50 USD  
 - 🌍 **True decentralization**: community-driven model  
@@ -51,7 +42,6 @@ Our mission is to close the digital divide with **sustainable, decentralized, an
 ## 🤝 Join the Community
 - 🔗 [Telegram](https://t.me/connectsphereDPin)  
 - 🐦 [Twitter/X](https://x.com/connectSphereDp)  
-- 💬 [Discord](https://discord.gg/ConnectSphere)  
 - 🌍 [Official Website](https://connectsphere.io)
 
 ---
